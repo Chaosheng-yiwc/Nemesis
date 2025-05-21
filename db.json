@@ -354,7 +354,7 @@
         "doi": ""
     },
     "4": {
-        "formula": "N4Sn",
+        "formula": "SnN4",
         "energy": "SnN4: -35.46384964 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "Sn",
@@ -418,7 +418,7 @@
         "doi": ""
     },
     "5": {
-        "formula": "N10Sr2",
+        "formula": "Sr2N10",
         "energy": "Sr2N10: -86.70281797 eV Sr2N: -13.25368328 eV N2: -17.13984915 eV",
         "symbols": [
             "Sr",
@@ -524,7 +524,7 @@
         "doi": ""
     },
     "6": {
-        "formula": "N6Y2",
+        "formula": "Y2N6",
         "energy": "Y2N6: -66.59041031 eV YN: -18.22930643 eV N2: -17.13984915 eV",
         "symbols": [
             "Y",
@@ -606,7 +606,7 @@
         "doi": ""
     },
     "7": {
-        "formula": "N8Y",
+        "formula": "YN8",
         "energy": "YN8: -69.86218815 eV YN: -18.22930643 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -5046,7 +5046,7 @@
         "doi": ""
     },
     "28": {
-        "formula": "N10Y2",
+        "formula": "Y2N10",
         "energy": "Y2N10: -93.54749346 eV YN: -18.22930643 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -5152,7 +5152,7 @@
         "doi": ""
     },
     "29": {
-        "formula": "N16Ta4",
+        "formula": "Ta4N16",
         "energy": "Ta4N16: -174.94133686 eV TaN: -22.56592513 eV N2: -17.13984915 eV",
         "symbols": [
             "Ta",
@@ -5306,7 +5306,7 @@
         "doi": ""
     },
     "30": {
-        "formula": "N10Na2",
+        "formula": "Na2N10",
         "energy": "Na2N10: -85.16215853 eV NaN3: -26.78008185 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -5700,7 +5700,7 @@
         "doi": ""
     },
     "34": {
-        "formula": "N28Y10",
+        "formula": "Y10N28",
         "energy": "Y10N28: -316.73924238 eV YN: -18.22930643 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -6180,7 +6180,7 @@
         "doi": ""
     },
     "37": {
-        "formula": "N6Zn4",
+        "formula": "Zn4N6",
         "energy": "Zn4N6: -41.26657337 eV Zn3N2: -19.38548389 eV N2: -17.13984915 eV",
         "symbols": [
             "Zn",
@@ -7050,7 +7050,7 @@
         "doi": ""
     },
     "43": {
-        "formula": "N8Sn4",
+        "formula": "Sn4N8",
         "energy": "Sn4N8: -76.9315962 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "Sn",
@@ -7596,7 +7596,7 @@
         "doi": ""
     },
     "46": {
-        "formula": "N16Sr4",
+        "formula": "Sr4N16",
         "energy": "Sr4N16: -141.47806551 eV Sr2N: -13.25368328 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -7750,7 +7750,7 @@
         "doi": ""
     },
     "47": {
-        "formula": "N16Zn4",
+        "formula": "Zn4N16",
         "energy": "Zn4N16: -125.02517968 eV Zn3N2: -19.38548389 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -8178,7 +8178,7 @@
         "doi": ""
     },
     "49": {
-        "formula": "N4Ni2",
+        "formula": "Ni2N4",
         "energy": "Ni2N4: -43.24702036 eV Ni3N: -24.61169839 eV N2: -17.13984915 eV",
         "symbols": [
             "Ni",
@@ -8248,7 +8248,7 @@
         "doi": ""
     },
     "50": {
-        "formula": "N20Ni2",
+        "formula": "Ni2N20",
         "energy": "Ni2N20: -166.32874956 eV Ni3N: -24.61169839 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -9922,7 +9922,7 @@
         "doi": ""
     },
     "65": {
-        "formula": "N4Pt",
+        "formula": "PtN4",
         "energy": "PtN4: -36.39794684 eV PtN2: -21.46862654 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -9986,7 +9986,7 @@
         "doi": ""
     },
     "66": {
-        "formula": "N10Pt2",
+        "formula": "Pt2N10",
         "energy": "Pt2N10: -85.60608765 eV PtN2: -21.46862654 eV N2: -17.13984915 eV",
         "symbols": [
             "Pt",
@@ -10092,7 +10092,7 @@
         "doi": ""
     },
     "67": {
-        "formula": "N11Sc",
+        "formula": "ScN11",
         "energy": "ScN11: -90.76936682 eV ScN: -18.41099125 eV N2: -17.13984915 eV",
         "symbols": [
             "Sc",
@@ -10198,7 +10198,7 @@
         "doi": ""
     },
     "68": {
-        "formula": "N8Sc",
+        "formula": "ScN8",
         "energy": "ScN8: -67.47554178 eV ScN: -18.41099125 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -10286,7 +10286,7 @@
         "doi": ""
     },
     "69": {
-        "formula": "N18Sn2",
+        "formula": "Sn2N18",
         "energy": "Sn2N18: -143.25785752 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "Sn",
@@ -10440,7 +10440,7 @@
         "doi": ""
     },
     "70": {
-        "formula": "N20Pd2",
+        "formula": "Pd2N20",
         "energy": "Pd2N20: -164.7522956 eV PdN2: -20.92679914 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -11422,7 +11422,7 @@
         "doi": ""
     },
     "77": {
-        "formula": "N32Sn8",
+        "formula": "Sn8N32",
         "energy": "Sn8N32: -228.71075387 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "Sn",
@@ -12390,7 +12390,7 @@
         "doi": ""
     },
     "82": {
-        "formula": "N30Rh2",
+        "formula": "Rh2N30",
         "energy": "Rh2N30: -248.24101367 eV RhN2: -22.94536871 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -12616,7 +12616,7 @@
         "doi": ""
     },
     "83": {
-        "formula": "N32Sr12",
+        "formula": "Sr12N32",
         "energy": "Sr12N32: -300.04834886 eV Sr2N: -13.25368328 eV N2: -17.13984915 eV",
         "symbols": [
             "Sr",
@@ -12914,7 +12914,7 @@
         "doi": ""
     },
     "84": {
-        "formula": "N12Sr4",
+        "formula": "Sr4N12",
         "energy": "Sr4N12: -105.90740612 eV Sr2N: -13.25368328 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -13044,7 +13044,7 @@
         "doi": ""
     },
     "85": {
-        "formula": "N80Ta16",
+        "formula": "Ta16N80",
         "energy": "Ta16N80: -812.88386148 eV TaN: -22.56592513 eV N2: -17.13984915 eV",
         "symbols": [
             "Ta",
@@ -14470,7 +14470,7 @@
         "doi": ""
     },
     "92": {
-        "formula": "N40Sn2",
+        "formula": "Sn2N40",
         "energy": "Sn2N40: -312.34670663 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -14756,7 +14756,7 @@
         "doi": ""
     },
     "93": {
-        "formula": "N72Zn48",
+        "formula": "Zn48N72",
         "energy": "Zn48N72: -534.17961395 eV Zn3N2: -19.38548389 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -16260,7 +16260,7 @@
         "doi": ""
     },
     "97": {
-        "formula": "N24Sn4",
+        "formula": "Sn4N24",
         "energy": "Sn4N24: -183.9409546 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -16462,7 +16462,7 @@
         "doi": ""
     },
     "98": {
-        "formula": "N6Sn2",
+        "formula": "Sn2N6",
         "energy": "Sn2N6: -53.10106428 eV Sn3N4: -43.48235591 eV N2: -17.13984915 eV",
         "symbols": [
             "Sn",
@@ -16770,7 +16770,7 @@
         "doi": ""
     },
     "100": {
-        "formula": "N36Y6",
+        "formula": "Y6N36",
         "energy": "Y6N36: -334.0588726 eV YN: -18.22930643 eV N2: -17.13984915 eV",
         "symbols": [
             "N",
@@ -17790,7 +17790,7 @@
         "doi": ""
     },
     "103": {
-        "formula": "N2Zn",
+        "formula": "ZnN2",
         "energy": "ZnN2: -16.73582472 eV Zn3N2: -19.38548389 eV N2: -17.13984915 eV",
         "symbols": [
             "Zn",
